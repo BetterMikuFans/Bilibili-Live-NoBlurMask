@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         bilibili直播间 无感去除高斯模糊遮罩
 // @namespace    anti_blur_mask
-// @version      0.1.0
+// @version      1.0.0
 // @description  无感去除高斯模糊遮罩
 // @author       Mifan-T
 // @homepageURL  https://github.com/BetterMikuFans/Bilibili-Live-NoBlurMask
@@ -32,7 +32,7 @@
 
   // 定义遮罩清理任务，如果没有遮罩则进行清理
   setTimeout(() => {
-    if (!(document.querySelector('#web-player-module-area-mask-panel'))) {
+    if (!document.querySelector('#web-player-module-area-mask-panel')) {
       console.log('%c[NoMask] 未侦测到遮罩，即将清理样式', "color: #39c5bb");
       if (styleNode && styleNode.parentNode) {
         styleNode.remove();
