@@ -4,6 +4,8 @@
 
 网游还好说，但MC是单机游戏，一般都是私服直播，都是熟人，还**强制遮挡**，这是不是有那么**亿点点**离谱了？看基岩版的直播更是能被遮罩的位置气笑
 
+![逆天的遮罩](https://raw.githubusercontent.com/BetterMikuFans/Bilibili-Live-NoBlurMask/refs/heads/main/docs/images/%E9%80%86%E5%A4%A9%E7%9A%84%E9%81%AE%E7%BD%A9.png)
+
 ## ⚛️ 主要功能
 
 本脚本可以让你**完全感受不到遮罩的存在**，再也不会闪现到你的屏幕上了！
