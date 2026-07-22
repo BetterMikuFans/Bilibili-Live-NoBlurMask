@@ -6,6 +6,8 @@
 
 ![逆天的遮罩](https://raw.githubusercontent.com/BetterMikuFans/Bilibili-Live-NoBlurMask/refs/heads/main/docs/images/%E9%80%86%E5%A4%A9%E7%9A%84%E9%81%AE%E7%BD%A9.png)
 
+> *展示直播间：@Glavo（HMCL开发者）*
+
 ## ⚛️ 主要功能
 
 本脚本可以让你**完全感受不到遮罩的存在**，再也不会闪现到你的屏幕上了！
