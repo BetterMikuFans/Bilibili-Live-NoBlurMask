@@ -24,6 +24,10 @@
 
 如果发现失效，欢迎来 [Github](https://github.com/BetterMikuFans/Bilibili-Live-NoBlurMask/issues) 提交 issue ¯\\_(ツ)_/¯
 
+## 📜 协议&许可证
+
+> 本项目所有**代码**采用 GPL-3.0 协议开源在 [Github](https://github.com/BetterMikuFans/Bilibili-Live-NoBlurMask) 上
+
 ## 参考和鸣谢
 
 - [Bilibili 20-21年旧版](https://greasyfork.org/zh-CN/scripts/474444-bilibili-20-21%E5%B9%B4%E6%97%A7%E7%89%88)
