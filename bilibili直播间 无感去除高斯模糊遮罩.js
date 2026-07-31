@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         bilibili直播间 无感去除高斯模糊遮罩
 // @namespace    anti_blur_mask
-// @version      1.0.0
-// @description  无感去除高斯模糊遮罩
+// @version      1.0.1
+// @description  无感去除高斯模糊(马赛克)遮罩
 // @author       Mifan-T
 // @homepageURL  https://github.com/BetterMikuFans/Bilibili-Live-NoBlurMask
 // @match        *://*.live.bilibili.com/*
